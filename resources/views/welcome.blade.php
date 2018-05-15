@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello
+                    Hello PHP NE
                 </div>
 
                 <div class="links">
